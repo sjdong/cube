@@ -1,2 +1,1 @@
-# cube
-贪吃蛇
+# Swift学习笔记 lesson 2 贪吃蛇
